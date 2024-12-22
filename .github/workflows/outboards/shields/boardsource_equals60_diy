@@ -4,4 +4,4 @@
 outboard_repository=sebastienb/zmk-boardsource
 outboard_ref=main
 outboard_from=app/boards/shields/boardsource_equals60diy
-outboard_to=boards/shields/boardsource_equals60diy
+outboard_to=boards/shields/boardsource_equals60_diy
